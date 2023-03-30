@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1679647464828" clover="3.2.0">
+  <project timestamp="1679647464828" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="14" coveredelements="14" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="Stack.js" path="/Users/bratosab/Source/Github/tests/tdd-stack/src/Stack.js">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
